@@ -1,7 +1,5 @@
-SPACE GAME
-===========
-
-
+JAMMA Game Boilerplate
+======================
 
 CMake
 ------
